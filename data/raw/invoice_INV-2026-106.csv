@@ -1,0 +1,12 @@
+COMPANY: Global Oil Solutions
+INVOICE NO: INV-2026-106
+DATE: 2026-14-03
+ADDRESS: 123 Business St, Calgary, AB, Canada
+------------------------------
+Item,Quantity,Unit_Price
+Turbine Blade,2,1200.0
+Valve Seal,7,12.75
+------------------------------
+SUBTOTAL,2489.25
+TAX (GST 5%),124.46
+TOTAL AMOUNT,2613.71

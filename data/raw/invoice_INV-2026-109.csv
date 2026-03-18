@@ -1,0 +1,14 @@
+COMPANY: Calgary Tech Supplies
+INVOICE NO: INV-2026-109
+DATE: 2026-03-14
+ADDRESS: 123 Business St	 Calgary	 AB	 Canada
+------------------------------
+Item	Quantity	Unit_Price
+Sensor Module	2	45.5
+Hydraulic Fluid	3	85.0
+Turbine Blade	10	1200.0
+Valve Seal	3	12.75
+------------------------------
+SUBTOTAL	12384.25
+TAX (GST 5%)	619.21
+TOTAL AMOUNT	13003.46

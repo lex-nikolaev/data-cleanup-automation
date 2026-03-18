@@ -1,0 +1,12 @@
+COMPANY: Aviation Parts Inc.
+INVOICE NO: INV-2026-103
+DATE: 2026-03-11
+ADDRESS: 123 Business St, Calgary, AB, Canada
+------------------------------
+Item,Quantity,Unit_Price
+Sensor Module,9,45.5
+Drill Bit,6,150.0
+------------------------------
+SUBTOTAL,1309.5
+TAX (GST 5%),65.48
+TOTAL AMOUNT,1374.98

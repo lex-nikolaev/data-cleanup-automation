@@ -1,0 +1,12 @@
+COMPANY: Retail Hub Ltd
+INVOICE NO: INV-2026-104
+DATE: 2026\03\9
+ADDRESS: 123 Business St, Calgary, AB, Canada
+------------------------------
+Item,Quantity,Unit_Price
+Safety Helmet,5,25.0
+Drill Bit,7,150.0
+------------------------------
+SUBTOTAL,1175.0
+TAX (GST 5%),58.75
+TOTAL AMOUNT,1233.75

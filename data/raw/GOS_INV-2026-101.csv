@@ -1,0 +1,14 @@
+COMPANY: Global Oil Solutions
+INVOICE NO: INV-2026-101
+DATE: 2026-03-3
+ADDRESS: 123 Business St, Calgary, AB, Canada
+------------------------------
+Item,Quantity,Unit_Price
+Drill Bit,10,150.0
+Sensor Module,2,45.5
+Hydraulic Fluid,1,85.0
+Safety Helmet,4,25.0
+------------------------------
+SUBTOTAL,1776.0
+TAX (GST 5%),88.8
+TOTAL AMOUNT,1864.8

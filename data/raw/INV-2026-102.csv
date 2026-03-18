@@ -1,0 +1,12 @@
+COMPANY: Calgary Tech Supplies
+INVOICE NO: INV-2026-102
+DATE: 2026-03-5
+ADDRESS: 123 Business St, Calgary, AB, Canada
+------------------------------
+Item,Quantity,Unit_Price
+Sensor Module,7,45.5
+Drill Bit,5,150.0
+------------------------------
+SUBTOTAL,1068.5
+TAX (GST 5%),53.43
+TOTAL AMOUNT,1121.93
